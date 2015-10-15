@@ -1,0 +1,16 @@
+{
+  "name": "noisy",
+  "version": "0.0.1",
+  "description": "A jQuery plugin that adds random noise to the background of an element.",
+  "main": "jquery/jquery.noisy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mociepka/Noisy.git"
+  },
+  "author": "Dniel Rapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mociepka/Noisy/issues"
+  },
+  "homepage": "https://github.com/mociepka/Noisy#readme"
+}
